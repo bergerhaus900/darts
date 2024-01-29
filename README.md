@@ -3,4 +3,6 @@ program for darts
 
 ## play darts
 
-## namr project
+## name project
+
+### only code
